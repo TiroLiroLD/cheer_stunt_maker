@@ -1,83 +1,53 @@
 {
   "2021-2022": {
-    "levels": {
-      "10000": {
-        "name": "Level 1"
-      },
-      "20000": {
-        "name": "Level 2"
-      },
-      "30000": {
-        "name": "Level 3"
-      },
-      "40000": {
-        "name": "Level 4"
-      },
-      "50000": {
-        "name": "Level 5"
-      },
-      "60000": {
-        "name": "Junior Level 6"
-      }
-    },
     "en": {
-      "level_1": {
-        "level_apropriate": {
-          "inversion_style": [
-            "Inversion to Ground Level"
-          ],
-          "release_style": [
-            ""
-          ],
-          "twisting": {},
-          "dismount_style": {},
-          "combination_skills": {},
-          "coed_style": {}
+      "levels": {
+        "1": {
+          "name": "Level 1"
         },
-        "elite_level_apropriate": {
-          "inversion_style": {},
-          "release_style": {},
-          "twisting": {},
-          "dismount_style": {},
-          "combination_skills": {},
-          "coed_style": {}
+        "2": {
+          "name": "Level 2"
+        },
+        "3": {
+          "name": "Level 3"
+        },
+        "4": {
+          "name": "Level 4"
+        },
+        "5": {
+          "name": "Level 5"
+        },
+        "6": {
+          "name": "Junior Level 6"
         }
+      },
+      "level_1": {
+        "inversion_style": [
+          "Inversion to Ground Level"
+        ],
+        "release_style": [
+          ""
+        ],
+        "twisting": {},
+        "dismount_style": {},
+        "combination_skills": {},
+        "coed_style": {}
       },
       "level_2": {
-        "level_apropriate": {
-          "inversion_style": {},
-          "release_style": {},
-          "twisting": {},
-          "dismount_style": {},
-          "combination_skills": {},
-          "coed_style": {}
-        },
-        "elite_level_apropriate": {
-          "inversion_style": {},
-          "release_style": {},
-          "twisting": {},
-          "dismount_style": {},
-          "combination_skills": {},
-          "coed_style": {}
-        }
+        "inversion_style": {},
+        "release_style": {},
+        "twisting": {},
+        "dismount_style": {},
+        "combination_skills": {},
+        "coed_style": {}
       },
       "level_3": {
-        "level_apropriate": {
           "inversion_style": {},
           "release_style": {},
           "twisting": {},
           "dismount_style": {},
           "combination_skills": {},
           "coed_style": {}
-        },
-        "elite_level_apropriate": {
-          "inversion_style": {},
-          "release_style": {},
-          "twisting": {},
-          "dismount_style": {},
-          "combination_skills": {},
-          "coed_style": {}
-        }
       },
       "level_4": {
         "inversion_style": {
