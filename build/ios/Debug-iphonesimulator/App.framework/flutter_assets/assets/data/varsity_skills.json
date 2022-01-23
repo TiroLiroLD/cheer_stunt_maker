@@ -1,0 +1,674 @@
+{
+  "2021-2022": {
+    "en":{
+      "level_1": {
+        "level_apropriate": {
+          "inversion_style": ["Inversion to Ground Level"],
+          "release_style": [""],
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        },
+        "elite_level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        }
+      },
+      "level_2": {
+        "level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        },
+        "elite_level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        }
+      },
+      "level_3": {
+        "level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        },
+        "elite_level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        }
+      },
+      "level_4": {
+        "level_apropriate": {
+          "inversion_style": {
+            "41001": {
+              "name": "RELEASED INVERSION TO PREP LEVEL OR BELOW",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "41002": {
+              "name": "RELEASED INVERSION AT PREP LEVEL TO PREP LEVEL",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "41003": {
+              "name": "DOWNWARD INVERSION FROM PREP LEVEL",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "41004": {
+              "name": "EXTENDED INVERTED STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "41005": {
+              "name": "RELEASED INVERSION FROM BELOW PREP LEVEL TO EXTENDED STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": true
+            }
+          },
+          "release_style": {
+            "42001": {
+              "name": "SWITCH UP TO EXTENDED 1 LEG STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42002": {
+              "name": "RELEASE TO EXTENDED STUNT",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42003": {
+              "name": "TIC TOC LIB TO LIB (HIGH TO LOW)",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42004": {
+              "name": "HELICOPTER RELEASE MOVES",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42005": {
+              "name": "RELEASE TO EXTENDED LIB",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42006": {
+              "name": "SWITCH UP TO EXTENDED BODY POSITION",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42007": {
+              "name": "FULL TWISTING RELEASE TO PREP LEVEL ORBELOW",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42008": {
+              "name": "RELEASE FROM PREP LEVEL TO PREP LEVEL",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "42009": {
+              "name": "TIC TOC EXTENDED BODY POSITION TO PREP LEVEL OR BELOW BODY POSITION (HIGH TO LOW)",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "42010": {
+              "name": "BALL UP OR STRADDLE UP TO EXTENDED BODY POSITION",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "42011": {
+              "name": "RELEASE TO EXTENDED BODY POSITION (NOT INCLUDING SWITCH UP)",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            }
+          },
+          "twisting": {
+            "43001": {
+              "name": "1 1⁄2 TWISTING TRANSITION TO BELOW PREP LEVEL",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": true
+              },
+              "elite": false
+            },
+            "43002": {
+              "name": "3⁄4 TWISTING TRANSITION TO EXTENDED STUNT",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "43003": {
+              "name": "FULL UP TO EXTENDED 2 LEG STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "43004": {
+              "name": "1 1⁄2 TWISTING TRANSITION TO PREP LEVEL",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "43005": {
+              "name": "1 1⁄2 TWISTING TRANSITION TO PREP LEVEL 1 LEG STUNT",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "43006": {
+              "name": "FULL UP TO EXTENDED LIB (NOT BODY POSITION)",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "43007": {
+              "name": "1 1⁄2 TWISTING TRANSITION TO PREP LEVEL BODY POSITION",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "43008": {
+              "name": "EXTENDED FULL TWISTING TRANSITION TO EXTENDED STUNT",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            }
+          },
+          "dismount_style": {
+            "44001": {
+              "name": "FULL DOWN FROM EXTENDED 1 LEG STUNT",
+              "moment": {
+                "start": false,
+                "mid": false,
+                "dismount": true
+              },
+              "elite": true
+            },
+            "44002": {
+              "name": "DOUBLE DOWN FROM PREP LEVEL",
+              "moment": {
+                "start": false,
+                "mid": false,
+                "dismount": true
+              },
+              "elite": true
+            },
+            "44003": {
+              "name": "KICK FULL TWISTING DISMOUNT",
+              "moment": {
+                "start": false,
+                "mid": false,
+                "dismount": true
+              },
+              "elite": true
+            },
+            "44004": {
+              "name": "DOUBLE DOWN FROM EXTENDED STUNT",
+              "moment": {
+                "start": false,
+                "mid": false,
+                "dismount": true
+              },
+              "elite": true
+            }
+          },
+          "combination_skills": {
+            "45001": {
+              "name": "COMBINATION OF TWO OR MORE LEVEL APPROPRIATE SKILLS PERFORMED SIMULTANEOUSLY",
+              "moment": {
+                "start": true,
+                "mid": true,
+                "dismount": true
+              },
+              "elite": false
+            },
+            "45002": {
+              "name": "FULL TWISTING INVERSION TO EXTENDED STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "45003": {
+              "name": "FULL TWISTING TIC TOC RELEASE TO PREP LEVEL 1 LEG STUNT",
+              "moment": {
+                "start": false,
+                "mid": true,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "45004": {
+              "name": "FULL TWISTING BALL UP, STRADDLE UP AND/OR SWITCH UP TO PREP LEVEL BODY POSITION",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": true
+            },
+            "45005": {
+              "name": "1 1⁄2 TWISTING BALL UP, STRADDLE UP AND/OR SWITCH UP TO PREP LEVEL 1 LEG STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": true
+            }
+          },
+          "coed_style": {
+            "46001": {
+              "name": "TOSS EXTENSION",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            },
+            "46002": {
+              "name": "TOSS 1 LEG EXTENDED STUNT",
+              "moment": {
+                "start": true,
+                "mid": false,
+                "dismount": false
+              },
+              "elite": false
+            }
+          }
+        },
+        "elite_level_apropriate": {
+          "inversion_style": [],
+          "release_style": [],
+          "twisting": [],
+          "dismount_style": [],
+          "combination_skills": [],
+          "coed_style": []
+        }
+      },
+      "level_5": {
+        "inversion_style": {
+          "51001": {
+            "name": "DOWNWARD INVERSION FROM EXTENDED STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "51002": {
+            "name": "DOWNWARD INVERSION FROM EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "51003": {
+            "name": "RELEASED INVERSION FROM PREP LEVEL TO EXTENSION",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "51004": {
+            "name": "RELEASED INVERSION FROM PREP LEVEL OR ABOVE TO EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          }
+        },
+        "release_style":{
+          "52001": {
+            "name": "1⁄4 TWIST SWITCH UP TO EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52002": {
+            "name": "TIC TOC LIB TO LIB (HIGH TO HIGH)",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52003": {
+            "name": "TIC TOC LIB TO LIB (LOW TO HIGH)",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52004": {
+            "name": "1⁄2 TURN SWITCH UP TO EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52005": {
+            "name": "TIC TOC LIB TO BODY POSITION (LOW TO HIGH)",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52006": {
+            "name": "TWISTING HELICOPTER RELEASE MOVES",
+            "moment": {
+              "start": true,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "52007": {
+            "name": "TIC TOC EXTENDED 1 LEG STUNT TO BODY POSITION (HIGH TO HIGH)",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": true
+          },
+          "52008": {
+            "name": "SWITCH UP FULL TWIST TO EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          },
+          "52009": {
+            "name": "1⁄2 TWISTING BALL UP TO EXTENDED BODY POSITION",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          },
+          "52010": {
+            "name": "1⁄2 TWISTING SWITCH UP TO EXTENDED BODY POSITION",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          }
+        },
+        "twisting": {
+          "53001": {
+            "name": "1 1⁄4 UP TO EXTENDED STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "53002": {
+            "name": "DOUBLE UP TO PREP LEVEL STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "53003": {
+            "name": "FULL UP TO EXTENDED BODY POSITION",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          },
+          "53004": {
+            "name": "1 1⁄2 UP TO EXTENDED STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          }
+        },
+        "dismount_style": {
+          "54001": {
+            "name": "DOUBLE DOWN FROM EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": false,
+              "mid": false,
+              "dismount": true
+            },
+            "elite": true
+          }
+        },
+        "combination_skills": {
+          "55001": {
+            "name": "1 1⁄2 - 2 TWIST TO PRONE",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "55002": {
+            "name": "COMBINATION OF TWO OR MORE LEVEL APPROPRIATE SKILLS PERFORMED SIMULTANEOUSLY",
+            "moment": {
+              "start": true,
+              "mid": true,
+              "dismount": true
+            },
+            "elite": false
+          },
+          "55003": {
+            "name": "1⁄4 - 3⁄4 TWISTING TIC TOC TO EXTENDED 1 LEG STUNT",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": true
+          },
+          "55004": {
+            "name": "FULL TWISTING TIC TOC TO EXTENDED 1 LEG STUNT (LOW TO HIGH)",
+            "moment": {
+              "start": false,
+              "mid": true,
+              "dismount": false
+            },
+            "elite": true
+          }
+        },
+        "coed_style": {
+          "56001": {
+            "name": "TOSS 1⁄4 - 3⁄4 TWIST TO EXTENDED STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "56002": {
+            "name": "TOSS EXTENDED 1 ARM STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "56003": {
+            "name": "TOSS FULL TWIST TO EXTENDED STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": false
+          },
+          "56004": {
+            "name": "UNASSISTED COED STYLE TOSS EXTENDED 1 ARM STUNT",
+            "moment": {
+              "start": true,
+              "mid": false,
+              "dismount": false
+            },
+            "elite": true
+          }
+        }
+      },
+      "junior_level_6": {
+        "level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        },
+        "elite_level_apropriate": {
+          "inversion_style": {},
+          "release_style": {},
+          "twisting": {},
+          "dismount_style": {},
+          "combination_skills": {},
+          "coed_style": {}
+        }
+      }
+    }
+  }
+}
