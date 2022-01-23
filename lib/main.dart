@@ -44,7 +44,8 @@ class _MyHomePageState extends State<MyHomePage> {
   final _dismountSkills = [];
 
   Future<dynamic> _fetchVarsitySkills() async {
-    String data = await DefaultAssetBundle.of(context).loadString("assets/data/varsity_skills.json");
+    String data = await DefaultAssetBundle.of(context)
+        .loadString("assets/data/varsity_skills.json");
     final jsonResult = jsonDecode(data);
     _varsitySkillList = jsonResult[year][language] as Map;
     return jsonResult;
@@ -69,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
         }
       }
     }
-    if (lowerLevel){
+    if (lowerLevel) {
       var lower_level = "level_" + levelNumber.toString();
       for (dynamic i in _varsitySkillList[lower_level].keys) {
         for (dynamic j in _varsitySkillList[lower_level][i].keys) {
@@ -95,7 +96,8 @@ class _MyHomePageState extends State<MyHomePage> {
       for (var i = Random().nextInt(3); i < Random().nextInt(5); i++) {
         _stuntSequence.add(_middleSkills[i]);
       }
-      _stuntSequence.add(_dismountSkills[Random().nextInt((_dismountSkills.length - 1))]);
+      _stuntSequence
+          .add(_dismountSkills[Random().nextInt((_dismountSkills.length - 1))]);
     });
     _updateSkills();
   }
@@ -121,13 +123,17 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Text(
-              _skills,
-            ),
-          ],
+        child: Padding(
+          padding: const EdgeInsets.all(16.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              Text(
+                _skills,
+                style: TextStyle(fontSize: 25),
+              ),
+            ],
+          ),
         ),
       ),
       floatingActionButton: FloatingActionButton(
