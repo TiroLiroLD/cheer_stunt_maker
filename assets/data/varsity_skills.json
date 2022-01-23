@@ -578,9 +578,9 @@
           "55001": {
             "name": "1 1⁄2 - 2 TWIST TO PRONE",
             "moment": {
-              "start": true,
-              "mid": false,
-              "dismount": false
+              "start": false,
+              "mid": true,
+              "dismount": true
             },
             "elite": false
           },
