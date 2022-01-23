@@ -1,5 +1,25 @@
 {
   "2021-2022": {
+    "levels": {
+      "10000": {
+        "name": "Level 1"
+      },
+      "20000": {
+        "name": "Level 2"
+      },
+      "30000": {
+        "name": "Level 3"
+      },
+      "40000": {
+        "name": "Level 4"
+      },
+      "50000": {
+        "name": "Level 5"
+      },
+      "60000": {
+        "name": "Junior Level 6"
+      }
+    },
     "en": {
       "level_1": {
         "level_apropriate": {
